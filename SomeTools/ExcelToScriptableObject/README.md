@@ -22,7 +22,7 @@ Unity上方导航栏中找到ExcelTool，点击选择Import，出现面板如下
 
 解决方案：去文件管理器删除再重新生成
 
-<img src="C:\Users\地下城堡\AppData\Roaming\Typora\typora-user-images\image-20220729131936393.png" style="zoom:50%;" /><img src="C:\Users\地下城堡\AppData\Roaming\Typora\typora-user-images\image-20220729132105092.png" alt="image-20220729132105092" style="zoom:50%;" />
+<img src="image-1.png" style="zoom:50%;" /><img src="image-2.png" alt="image-20220729132105092" style="zoom:50%;" />
 
 ## 代码详解
 
